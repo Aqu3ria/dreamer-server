@@ -1,0 +1,5 @@
+{
+  "name": "dreamer_server",
+  "version": "1.0.0",
+  "description": "An environment server for an ANN client.",
+}
